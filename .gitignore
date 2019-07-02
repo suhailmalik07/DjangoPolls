@@ -1,0 +1,5 @@
+.env/
+.vscode/
+polls/__pycache__/
+polls/migrations/
+FirstPolls/__pycache__/
